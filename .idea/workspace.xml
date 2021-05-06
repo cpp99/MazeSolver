@@ -25,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -33,7 +34,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="test-ness" />
+      <module name="MazeSolver" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,10 +67,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="24" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1614954028112" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1620299562637">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1620299920731">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1620299562637" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1620299920731" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1615211698437">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -106,10 +107,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1222" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1614870631117" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1620299528708">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1620299619556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1620299528708" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1620299619556" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1620299749454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1620299749454" />
     <state x="0" y="0" width="739" height="680" key="find.popup" timestamp="1614949934132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
